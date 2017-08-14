@@ -2,7 +2,7 @@
 
 ## Introduction
 
-My friend is into 'nulling' websites, lateron gave the files to me. 
+My friend is into 'nulling' websites, later on gave the files to me. 
 Then I decided to turn it into WoW registration site.
 
 ## Install
