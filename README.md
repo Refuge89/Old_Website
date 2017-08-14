@@ -1,4 +1,4 @@
-# ![logo](http://i.imgur.com/FEbMK2p.png) WotLK-Site
+# ![logo](http://i.imgur.com/FEbMK2p.png) Project-Reborn Site
 
 ## Introduction
 
